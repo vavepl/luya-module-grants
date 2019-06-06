@@ -1,0 +1,42 @@
+{
+	"name" : "vavepl/luya-module-grants",
+	"description" : "The grants module will provided you a basic grants system with categories and tags.",
+	"type" : "luya-module",
+	"keywords" : ["php", "luya", "module", "grants", "yii2", "yii", "luya-module"],
+	"license": "MIT",
+	"homepage" : "http://luya.io",
+	"authors" : [
+		{
+			"name" : "Basil",
+			"email" : "git@nadar.io",
+			"homepage" : "https://github.com/nadar"
+		},
+		{
+			"name" : "Tomasz",
+			"email" : "biuro@vave.pl",
+			"homepage" : "https://github.com/vavepl"
+		}
+	],
+	"support" : {
+		"issues" : "https://github.com/vavepl/luya-module-grants/issues"
+	},
+	"require-dev" : {
+		"luyadev/luya-testsuite" : "~1.0.0"
+	},
+	"autoload" : {
+		"psr-4" : {
+			"vavepl\\grants\\" : "src/"
+		}
+	},
+	"autoload-dev" : {
+       "psr-4" : {
+		   "luya\\grants\\tests\\" : "tests/",
+           "grantstests\\" : "tests/"
+       }
+    },
+	"extra": {
+        "branch-alias": {
+            "dev-master": "1.0.x-dev"
+        }
+    }
+}
