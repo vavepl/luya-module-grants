@@ -4,8 +4,8 @@ return [
 
 // added translation in 1.0.0-beta5:
 
-    'grants' => 'Wiadomości',
-    'grants_administrate' => 'Admin',
+    'grants' => 'Dotacje',
+    'grants_administrate' => 'Dotacje administracja',
     'article' => 'Wpis wiadomości',
     'article_cat_id' => 'Kategoria',
     'article_title' => 'Tytuł',
