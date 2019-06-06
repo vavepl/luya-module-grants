@@ -1,6 +1,6 @@
 <?php
 
-namespace luya\grants\frontend\controllers;
+namespace vavepl\grants\frontend\controllers;
 
 use Yii;
 use luya\grants\models\Article;

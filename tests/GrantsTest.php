@@ -1,6 +1,6 @@
 <?php
 
-namespace luya\grants\tests;
+namespace vavepl\grants\tests;
 
 use Yii;
 use luya\testsuite\cases\WebApplicationTestCase;

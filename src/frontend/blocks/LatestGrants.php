@@ -1,6 +1,6 @@
 <?php
 
-namespace luya\grants\frontend\blocks;
+namespace vavepl\grants\frontend\blocks;
 
 use luya\cms\models\NavItem;
 use luya\grants\models\Article;

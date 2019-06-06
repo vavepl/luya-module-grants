@@ -1,6 +1,6 @@
 <?php
 
-namespace luya\grants\admin\controllers;
+namespace vavepl\grants\admin\controllers;
 
 class ArticleController extends \luya\admin\ngrest\base\Controller
 {

@@ -1,6 +1,6 @@
 <?php
 
-namespace luya\grants\admin;
+namespace vavepl\grants\admin;
 
 use luya\admin\components\AdminMenuBuilder;
 

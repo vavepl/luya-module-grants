@@ -1,6 +1,6 @@
 <?php
 
-namespace luya\grants\models;
+namespace vavepl\grants\models;
 
 use Yii;
 use yii\helpers\Inflector;

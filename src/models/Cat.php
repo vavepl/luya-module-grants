@@ -1,6 +1,6 @@
 <?php
 
-namespace luya\grants\models;
+namespace vavepl\grants\models;
 
 use luya\grants\admin\Module;
 use luya\admin\ngrest\base\NgRestModel;
