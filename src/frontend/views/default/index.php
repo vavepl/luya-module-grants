@@ -6,7 +6,7 @@ use luya\admin\filters\MediumCrop;
 /* @var $provider \yii\data\ActiveDataProvider */
 ?>
 <?php foreach($provider->models as $item): ?>
-    <?php /** @var \luya\grants\models\Article $item */ ?>
+    <?php /** @var \vavepl\grants\models\Article $item */ ?>
     <h2><?= $item->title; ?></h2>
     <p><small><?= strftime('%A, %e. %B %Y', $item->timestamp_create); ?></small>
     <?php if ($item->image_id): ?>

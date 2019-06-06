@@ -2,7 +2,7 @@
 
 namespace vavepl\grants\models;
 
-use luya\grants\admin\Module;
+use vavepl\grants\admin\Module;
 use luya\admin\ngrest\base\NgRestModel;
 
 /**

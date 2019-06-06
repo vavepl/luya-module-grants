@@ -3,7 +3,7 @@
 namespace vavepl\grants\frontend\blocks;
 
 use luya\cms\models\NavItem;
-use luya\grants\models\Article;
+use vavepl\grants\models\Article;
 use luya\cms\base\PhpBlock;
 
 /**

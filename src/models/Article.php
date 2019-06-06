@@ -5,7 +5,7 @@ namespace vavepl\grants\models;
 use Yii;
 use yii\helpers\Inflector;
 use luya\helpers\Url;
-use luya\grants\admin\Module;
+use vavepl\grants\admin\Module;
 use luya\admin\aws\TagActiveWindow;
 use luya\admin\ngrest\base\NgRestModel;
 use luya\admin\traits\SoftDeleteTrait;

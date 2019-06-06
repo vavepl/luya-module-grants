@@ -17,7 +17,7 @@ class GrantsTest extends WebApplicationTestCase
 			'id' => 'grantstest',
 			'basePath' => dirname(__DIR__),
 			'modules' => [
-				'grantsadmin' => 'luya\grants\admin\Module',
+				'grantsadmin' => 'vavepl\grants\admin\Module',
 			],
 			'components' => [
 				'db' => [

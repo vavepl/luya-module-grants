@@ -3,8 +3,8 @@
 namespace vavepl\grants\frontend\controllers;
 
 use Yii;
-use luya\grants\models\Article;
-use luya\grants\models\Cat;
+use vavepl\grants\models\Article;
+use vavepl\grants\models\Cat;
 use yii\data\ActiveDataProvider;
 use yii\helpers\Html;
 

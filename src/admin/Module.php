@@ -12,8 +12,8 @@ use luya\admin\components\AdminMenuBuilder;
 final class Module extends \luya\admin\base\Module
 {
     public $apis = [
-        'api-grants-article' => 'luya\grants\admin\apis\ArticleController',
-        'api-grants-cat' => 'luya\grants\admin\apis\CatController',
+        'api-grants-article' => 'vavepl\grants\admin\apis\ArticleController',
+        'api-grants-cat' => 'vavepl\grants\admin\apis\CatController',
     ];
 
     /**

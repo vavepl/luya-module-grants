@@ -2,7 +2,7 @@
 use luya\admin\filters\MediumCrop;
 
 /* @var $this \luya\web\View */
-/* @var $model \luya\grants\models\Article */
+/* @var $model \vavepl\grants\models\Article */
 ?>
 <h1><?= $model->title; ?></h1>
 <?php if ($model->image_id): ?>
